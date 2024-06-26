@@ -1,12 +1,13 @@
 # Catching Feelings
 This repo contains code and supplementary data for the _Catching Feelings_ Project.
 
-It contains:
+Specifically, it contains
 
   - the Python code used to scrape the dataset in a Python-file.
   - the noun chunks in the comment data as identified with SpaCy, sorted by frequency in a csv-file.
-  - the annotation guidelines used to create the annotation-set in a pdf.
-
-    **To Add**
+  - an anonymized version of the annotation guidelines used to create the annotation-set in a pdf.
   - the Jupyter notebook used for pre-processing and exploring the comment data.
-  - The annotations
+  - the Jupyter notebook used to analyze the annotations and calculate inter-annotator agreement
+  - Two confusion matrices visualizing the confusion for aspects and sentiments between the two annotators
+  - The annotations in two csv files.
+  - Results from the three models for aspect extraction: RoBERTa-base, Twitter-RoBERTa and NuNER
