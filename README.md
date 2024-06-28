@@ -11,4 +11,4 @@ Specifically, it contains:
   - Two confusion matrices visualizing the confusion for aspects and sentiments between the two annotators
   - The annotations in two csv files.
   - Results from the three models for aspect extraction: RoBERTa-base, Twitter-RoBERTa and NuNER
-  - Additionally, a zipped annotations file from Inception, which you would need to run the inter_annotator_agreement notebook, is avaialble [on Google Drive](https://drive.google.com/file/d/1KBzhly5fSLNOvyPsUbeC4DX2Z1D27Vse/view?usp=sharing). 
+  - Additionally, a zipped annotations file from Inception, which you would need to run the inter_annotator_agreement notebook, is available [on Google Drive](https://drive.google.com/file/d/1KBzhly5fSLNOvyPsUbeC4DX2Z1D27Vse/view?usp=sharing). 
