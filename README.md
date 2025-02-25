@@ -1,5 +1,9 @@
 # Catching Feelings
-This repo contains code and supplementary data for the _Catching Feelings_ Project.
+This repo contains code and supplementary data for the _Catching Feelings_ Project. The paper associated with that project is now [available here](https://ceur-ws.org/Vol-3834/paper23.pdf). If you use this repo, please cite:
+
+Neugarten, Julia, et al. “Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction Comments about Greek Myth.” 	
+	2024, *CHR2024: Computational Humanities Research*, pp. 217–31, https://ceur-ws.org/Vol-3834/paper23.pdf.
+
 
 Specifically, it contains:
 
